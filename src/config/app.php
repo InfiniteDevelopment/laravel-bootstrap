@@ -8,12 +8,12 @@ return array(
     /**
      * The name of the application, will be used in the main management areas of the application
      */
-    'name' => 'Your Fantastic CMS',
+    'name' => 'Luxury Edition Detroit 2014',
 
     /**
      * The email address associated with support enquires on a technical basis
      */
-    'support_email' => 'example@example.com',
+    'support_email' => 'infinitedevelopment@me.com',
 
     /**
      * The base path to put uploads into
